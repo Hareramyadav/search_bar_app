@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.container p {
+  border: 2px solid whitesmoke;
+  padding: 10px;
+}
